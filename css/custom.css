@@ -1,0 +1,88 @@
+html, body {
+    background-color: #DAE6F0;
+    width: 99vw;
+}
+
+.container {
+    padding-top: 50px;
+}
+
+.carousel-inner {
+    max-width: 1200px;
+    border-radius: 15px;
+}
+
+.col-md-4 {
+    max-width: 350px;
+    text-align: center;
+    background-color: #fafafa;
+    margin: 10px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+    border-radius: 15px;
+}
+
+.panel-text {
+    padding: 20px 10px;
+    text-align: center;
+}
+
+.quote {
+    padding-top: 50px;
+    text-align: center;
+    font-size: 3vw;
+}
+
+.quote p {
+    font-size: 1.5vw;
+}
+
+.nav-logo {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 50px;
+}
+
+.navbar {
+    background-color: #A1C0DB;
+}
+
+.nav-item {
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 1.25rem;
+}
+
+.navbar-toggler {
+    color: #1a1e21;
+}
+
+.nav-link {
+    color: #1a1e21;
+    font-weight: lighter;
+}
+
+.nav-link a:hover {
+    color: #0a0a4f;
+    font-weight: bolder;
+}
+
+.active {
+    font-weight: normal;
+}
+
+footer {
+    background-color: #A1C0DB;
+    margin-top: 25px;
+    text-align: center;
+    bottom: 0;
+    position: relative;
+    width: 99vw;
+
+}
+
+footer a {
+    padding-top: 20px;
+    padding-right: 20px;
+
+}
